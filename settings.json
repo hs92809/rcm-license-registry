@@ -1,0 +1,8 @@
+{
+  "app_name": "RCM Label Generator",
+  "validation": {
+    "enabled": true,
+    "check_interval_hours": 24,
+    "grace_period_days": 3
+  }
+}
