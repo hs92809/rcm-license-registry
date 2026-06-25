@@ -1,14 +1,14 @@
 {
   "licenses": [
-{
-  "license_id": "LIC-2026-738A21",
-  "device_id": "RCM-2451-CF5F-811C-62FD",
-  "customer_name": "CArBon",
-  "plan": "lifetime",
-  "status": "active",
-  "issued_at": "2026-06-25T15:04:07.634675Z",
-  "expires_at": null,
-  "key_hash": "3978a552ed6a8c859271b5ed44b4a1a58bee25477c654c587793739f644ef3fd"
-}
+    {
+      "license_id": "LIC-2026-738A21",
+      "device_id": "RCM-2451-CF5F-811C-62FD",
+      "customer_name": "CArBon",
+      "plan": "lifetime",
+      "status": "active",
+      "issued_at": "2026-06-25T15:04:07.634675Z",
+      "expires_at": null,
+      "key_hash": "3978a552ed6a8c859271b5ed44b4a1a58bee25477c654c587793739f644ef3fd"
+    }
   ]
 }
