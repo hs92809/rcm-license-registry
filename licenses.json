@@ -1,3 +1,14 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+  "license_id": "LIC-2026-AFD73D",
+  "device_id": "How to know",
+  "customer_name": "Ishan",
+  "plan": "30d",
+  "status": "active",
+  "issued_at": "2026-06-25T14:53:50.622323Z",
+  "expires_at": "2026-07-25T14:53:50.622323Z",
+  "key_hash": "19de3a894645b1458ca2bb233d490a5b1d9ff0aadb45aa2d2ec4a0868939a684"
+}
+  ]
 }
